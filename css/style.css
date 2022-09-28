@@ -1,0 +1,9 @@
+.nav-link:hover{
+    color: darkgoldenrod;
+}
+.btn-primary:hover{
+    background-color: darkgoldenrod;
+}
+footer{
+    height: 200px;
+}
